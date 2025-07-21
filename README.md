@@ -10,4 +10,4 @@ Conhecimentos que estou adquirindo, logo vou postar outro com estilos utilziando
 O currículo apresenta minhas experiências profissionais, formação acadêmica, habilidades e objetivo profissional com foco na área de desenvolvimento de software.
 
 ## 🌐 Acesso online
-Você pode visualizar a versão online do currículo através do GitHub Pages (link após publicação).
+Você pode visualizar a versão online do currículo através do GitHub Pages (https://lacerls.github.io/Curriculo-em-HTML/)
